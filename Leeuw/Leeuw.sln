@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Leeuw", "Leeuw\Leeuw.vbproj", "{F00EFCE6-7892-4D25-A2BC-3A01D977F19C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00EFCE6-7892-4D25-A2BC-3A01D977F19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00EFCE6-7892-4D25-A2BC-3A01D977F19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00EFCE6-7892-4D25-A2BC-3A01D977F19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00EFCE6-7892-4D25-A2BC-3A01D977F19C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB017BCC-58BD-44C7-B8B8-060C02F36649}
+	EndGlobalSection
+EndGlobal

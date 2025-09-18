@@ -1,0 +1,14 @@
+C:\Users\Lars\source\repos\Leeuw\Leeuw\bin\Debug\net8.0\Leeuw.exe
+C:\Users\Lars\source\repos\Leeuw\Leeuw\bin\Debug\net8.0\Leeuw.deps.json
+C:\Users\Lars\source\repos\Leeuw\Leeuw\bin\Debug\net8.0\Leeuw.runtimeconfig.json
+C:\Users\Lars\source\repos\Leeuw\Leeuw\bin\Debug\net8.0\Leeuw.dll
+C:\Users\Lars\source\repos\Leeuw\Leeuw\bin\Debug\net8.0\Leeuw.pdb
+C:\Users\Lars\source\repos\Leeuw\Leeuw\obj\Debug\net8.0\Leeuw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\source\repos\Leeuw\Leeuw\obj\Debug\net8.0\Leeuw.AssemblyInfoInputs.cache
+C:\Users\Lars\source\repos\Leeuw\Leeuw\obj\Debug\net8.0\Leeuw.AssemblyInfo.vb
+C:\Users\Lars\source\repos\Leeuw\Leeuw\obj\Debug\net8.0\Leeuw.vbproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\Leeuw\Leeuw\obj\Debug\net8.0\Leeuw.dll
+C:\Users\Lars\source\repos\Leeuw\Leeuw\obj\Debug\net8.0\refint\Leeuw.dll
+C:\Users\Lars\source\repos\Leeuw\Leeuw\obj\Debug\net8.0\Leeuw.pdb
+C:\Users\Lars\source\repos\Leeuw\Leeuw\obj\Debug\net8.0\Leeuw.genruntimeconfig.cache
+C:\Users\Lars\source\repos\Leeuw\Leeuw\obj\Debug\net8.0\ref\Leeuw.dll
