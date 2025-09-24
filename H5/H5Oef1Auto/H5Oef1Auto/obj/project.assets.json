@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\H4\\Oefening2Wielrenner\\Oefening2Wielrenner\\Oefening2Wielrenner.vbproj",
-      "projectName": "Oefening2Wielrenner",
-      "projectPath": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\H4\\Oefening2Wielrenner\\Oefening2Wielrenner\\Oefening2Wielrenner.vbproj",
+      "projectUniqueName": "C:\\Users\\Lars\\source\\repos\\H4Oef1Auto\\H4Oef1Auto\\H4Oef1Auto.vbproj",
+      "projectName": "H4Oef1Auto",
+      "projectPath": "C:\\Users\\Lars\\source\\repos\\H4Oef1Auto\\H4Oef1Auto\\H4Oef1Auto.vbproj",
       "packagesPath": "C:\\Users\\Lars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\H4\\Oefening2Wielrenner\\Oefening2Wielrenner\\obj\\",
+      "outputPath": "C:\\Users\\Lars\\source\\repos\\H4Oef1Auto\\H4Oef1Auto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
