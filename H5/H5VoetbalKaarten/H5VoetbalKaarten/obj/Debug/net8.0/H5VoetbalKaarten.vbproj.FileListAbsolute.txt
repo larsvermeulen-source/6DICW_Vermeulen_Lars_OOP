@@ -1,0 +1,14 @@
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\obj\Debug\net8.0\H5VoetbalKaarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\obj\Debug\net8.0\H5VoetbalKaarten.AssemblyInfoInputs.cache
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\obj\Debug\net8.0\H5VoetbalKaarten.AssemblyInfo.vb
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\obj\Debug\net8.0\H5VoetbalKaarten.vbproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\bin\Debug\net8.0\H5VoetbalKaarten.exe
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\bin\Debug\net8.0\H5VoetbalKaarten.deps.json
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\bin\Debug\net8.0\H5VoetbalKaarten.runtimeconfig.json
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\bin\Debug\net8.0\H5VoetbalKaarten.dll
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\bin\Debug\net8.0\H5VoetbalKaarten.pdb
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\obj\Debug\net8.0\H5VoetbalKaarten.dll
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\obj\Debug\net8.0\refint\H5VoetbalKaarten.dll
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\obj\Debug\net8.0\H5VoetbalKaarten.pdb
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\obj\Debug\net8.0\H5VoetbalKaarten.genruntimeconfig.cache
+C:\Users\Lars\source\repos\H5VoetbalKaarten\H5VoetbalKaarten\obj\Debug\net8.0\ref\H5VoetbalKaarten.dll
