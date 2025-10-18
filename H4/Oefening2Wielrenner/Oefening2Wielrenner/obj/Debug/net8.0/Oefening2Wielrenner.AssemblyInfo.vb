@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Oefening2Wielrenner"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64c41f7c258aac370c78f04dd6bd03c014d45157"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f7eb76ca2a247d3dcee0eb452eaaf0d43aecf5e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Oefening2Wielrenner"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Oefening2Wielrenner"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
