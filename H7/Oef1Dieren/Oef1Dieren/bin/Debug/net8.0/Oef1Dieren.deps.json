@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Oef1Dieren/1.0.0": {
+        "runtime": {
+          "Oef1Dieren.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oef1Dieren/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

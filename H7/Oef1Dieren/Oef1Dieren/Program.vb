@@ -2,8 +2,8 @@ Imports System
 
 Module Program
     Class Dier
-        Protected intKleur As Integer
-        Public Sub New(intkleur As Integer)
+        Protected intKleur As String
+        Public Sub New(intkleur As String)
             Me.intKleur = intkleur
         End Sub
 
@@ -18,7 +18,7 @@ Module Program
     Class Hond
         Inherits Dier
         Private strBaasje As String
-        Public Sub New(intkleur As Integer, strBaasje As String)
+        Public Sub New(intkleur As String, strBaasje As String)
             MyBase.New(intkleur)
             Me.strBaasje = strBaasje
         End Sub
@@ -37,7 +37,7 @@ Module Program
     Class Leeuw
         Inherits Dier
         Private strJungleNaam As String
-        Public Sub New(intkleur As Integer, strJungleNaam As String)
+        Public Sub New(intkleur As String, strJungleNaam As String)
             MyBase.New(intkleur)
             Me.strJungleNaam = strJungleNaam
         End Sub
@@ -51,21 +51,20 @@ Module Program
         Public Sub zetJungle(jungle)
             Me.strJungleNaam = jungle
         End Sub
-        Sub Main(args As String())
-            Console.WriteLine("Hello World!")
-        End Sub
+        
     End Class
     Sub Main(args As String())
         Dim objWhoLetTheDogsOut As New Hond("Zwart", "America")
         objWhoLetTheDogsOut.Blaf()
-        objWhoLetTheDogsOut.geefEigenaar()
+        Console.WriteLine(objWhoLetTheDogsOut.geefEigenaar())
         objWhoLetTheDogsOut.zetEigenaar("rusland")
-        objWhoLetTheDogsOut.geefEigenaar()
+        Console.WriteLine(objWhoLetTheDogsOut.geefEigenaar())
         Dim objSimba As New Leeuw("geel", "brazil")
         objSimba.Brult()
-        objSimba.geefJungle()
+        Console.WriteLine(objSimba.geefJungle())
         objSimba.zetJungle("mijn tuin")
-        objSimba.geefJungle()
+        Console.WriteLine(objSimba.geefJungle())
+        objSimba.slaap()
     End Sub
 End Module
 
