@@ -1,0 +1,14 @@
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\bin\Debug\net8.0\Oef2Veelhoek.exe
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\bin\Debug\net8.0\Oef2Veelhoek.deps.json
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\bin\Debug\net8.0\Oef2Veelhoek.runtimeconfig.json
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\bin\Debug\net8.0\Oef2Veelhoek.dll
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\bin\Debug\net8.0\Oef2Veelhoek.pdb
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\obj\Debug\net8.0\Oef2Veelhoek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\obj\Debug\net8.0\Oef2Veelhoek.AssemblyInfoInputs.cache
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\obj\Debug\net8.0\Oef2Veelhoek.AssemblyInfo.vb
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\obj\Debug\net8.0\Oef2Veelhoek.vbproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\obj\Debug\net8.0\Oef2Veelhoek.dll
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\obj\Debug\net8.0\refint\Oef2Veelhoek.dll
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\obj\Debug\net8.0\Oef2Veelhoek.pdb
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\obj\Debug\net8.0\Oef2Veelhoek.genruntimeconfig.cache
+C:\Users\Lars\source\repos\Oef2Veelhoek\Oef2Veelhoek\obj\Debug\net8.0\ref\Oef2Veelhoek.dll
