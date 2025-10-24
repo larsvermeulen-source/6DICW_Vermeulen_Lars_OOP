@@ -1,0 +1,14 @@
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\bin\Debug\net8.0\Oef6Dierern.exe
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\bin\Debug\net8.0\Oef6Dierern.deps.json
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\bin\Debug\net8.0\Oef6Dierern.runtimeconfig.json
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\bin\Debug\net8.0\Oef6Dierern.dll
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\bin\Debug\net8.0\Oef6Dierern.pdb
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\obj\Debug\net8.0\Oef6Dierern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\obj\Debug\net8.0\Oef6Dierern.AssemblyInfoInputs.cache
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\obj\Debug\net8.0\Oef6Dierern.AssemblyInfo.vb
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\obj\Debug\net8.0\Oef6Dierern.vbproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\obj\Debug\net8.0\Oef6Dierern.dll
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\obj\Debug\net8.0\refint\Oef6Dierern.dll
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\obj\Debug\net8.0\Oef6Dierern.pdb
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\obj\Debug\net8.0\Oef6Dierern.genruntimeconfig.cache
+C:\Users\Lars\source\repos\Oef6Dierern\Oef6Dierern\obj\Debug\net8.0\ref\Oef6Dierern.dll
