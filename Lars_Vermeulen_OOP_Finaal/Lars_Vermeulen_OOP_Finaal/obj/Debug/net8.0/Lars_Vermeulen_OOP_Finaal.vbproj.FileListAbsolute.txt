@@ -1,0 +1,14 @@
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\bin\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.exe
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\bin\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.deps.json
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\bin\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.runtimeconfig.json
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\bin\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.dll
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\bin\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.pdb
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\obj\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\obj\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.AssemblyInfoInputs.cache
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\obj\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.AssemblyInfo.vb
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\obj\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.vbproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\obj\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.dll
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\obj\Debug\net8.0\refint\Lars_Vermeulen_OOP_Finaal.dll
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\obj\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.pdb
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\obj\Debug\net8.0\Lars_Vermeulen_OOP_Finaal.genruntimeconfig.cache
+C:\Users\Lars\source\repos\Lars_Vermeulen_OOP_Finaal\Lars_Vermeulen_OOP_Finaal\obj\Debug\net8.0\ref\Lars_Vermeulen_OOP_Finaal.dll

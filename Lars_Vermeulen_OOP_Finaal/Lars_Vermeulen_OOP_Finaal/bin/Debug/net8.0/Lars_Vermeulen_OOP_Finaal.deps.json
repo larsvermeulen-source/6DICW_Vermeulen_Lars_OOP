@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lars_Vermeulen_OOP_Finaal/1.0.0": {
+        "runtime": {
+          "Lars_Vermeulen_OOP_Finaal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lars_Vermeulen_OOP_Finaal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
