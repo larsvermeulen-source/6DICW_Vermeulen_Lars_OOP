@@ -1,0 +1,32 @@
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csprojAssemblyReference.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.Form1.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.Properties.Resources.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.GenerateResource.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.CoreCompileInputs.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.exe.config
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.exe
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.exe
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.AssemblyReference.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.exe.config
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.WekkerForm.resources
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.Properties.Resources.resources
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.GenerateResource.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.CoreCompileInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.exe.config
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H2\Wekker\Wekker\bin\Debug\Wekker.exe.config
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H2\Wekker\Wekker\bin\Debug\Wekker.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H2\Wekker\Wekker\bin\Debug\Wekker.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H2\Wekker\Wekker\obj\Debug\Wekker.csproj.AssemblyReference.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H2\Wekker\Wekker\obj\Debug\Wekker.exe.config
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H2\Wekker\Wekker\obj\Debug\Wekker.WekkerForm.resources
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H2\Wekker\Wekker\obj\Debug\Wekker.Properties.Resources.resources
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H2\Wekker\Wekker\obj\Debug\Wekker.csproj.GenerateResource.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H2\Wekker\Wekker\obj\Debug\Wekker.csproj.CoreCompileInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H2\Wekker\Wekker\obj\Debug\Wekker.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H2\Wekker\Wekker\obj\Debug\Wekker.pdb

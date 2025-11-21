@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|c:\\users\\lars\\documents\\school\\jaar 25-26\\gitreposharp\\6dicw_vermeulen_lars_oop\\c#\\h2\\wekker\\wekker\\wekkerform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekkerform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\wekker\\wekkerform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekkerform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\wekker\\wekkerform..designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekkerform..designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\wekker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\wekker\\wekker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wekker.cs",
+              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\Wekker\\Wekker.cs",
+              "RelativeDocumentMoniker": "Wekker\\Wekker.cs",
+              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\Wekker\\Wekker.cs",
+              "RelativeToolTip": "Wekker\\Wekker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:18:38.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WekkerForm..cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\Wekker\\WekkerForm..cs",
+              "RelativeDocumentMoniker": "Wekker\\WekkerForm..cs",
+              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\Wekker\\WekkerForm..cs [Design]",
+              "RelativeToolTip": "Wekker\\WekkerForm..cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:41:28.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\Wekker\\Program.cs",
+              "RelativeDocumentMoniker": "Wekker\\Program.cs",
+              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\Wekker\\Program.cs",
+              "RelativeToolTip": "Wekker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:23:05.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WekkerForm..cs",
+              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\Wekker\\WekkerForm..cs",
+              "RelativeDocumentMoniker": "Wekker\\WekkerForm..cs",
+              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\Wekker\\WekkerForm..cs",
+              "RelativeToolTip": "Wekker\\WekkerForm..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:40:54.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WekkerForm..Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\Wekker\\WekkerForm..Designer.cs",
+              "RelativeDocumentMoniker": "Wekker\\WekkerForm..Designer.cs",
+              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#\\H2\\Wekker\\Wekker\\WekkerForm..Designer.cs",
+              "RelativeToolTip": "Wekker\\WekkerForm..Designer.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAD4v2oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:41:08.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
