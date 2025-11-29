@@ -1,0 +1,29 @@
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\bin\Debug\net8.0\AI_Vraag_1.exe
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\bin\Debug\net8.0\AI_Vraag_1.deps.json
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\bin\Debug\net8.0\AI_Vraag_1.runtimeconfig.json
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\bin\Debug\net8.0\AI_Vraag_1.dll
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\bin\Debug\net8.0\AI_Vraag_1.pdb
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.AssemblyInfoInputs.cache
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.AssemblyInfo.vb
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.vbproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.dll
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\refint\AI_Vraag_1.dll
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.pdb
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.genruntimeconfig.cache
+C:\Users\Lars\source\repos\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\ref\AI_Vraag_1.dll
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\bin\Debug\net8.0\AI_Vraag_1.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\bin\Debug\net8.0\AI_Vraag_1.deps.json
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\bin\Debug\net8.0\AI_Vraag_1.runtimeconfig.json
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\bin\Debug\net8.0\AI_Vraag_1.dll
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\bin\Debug\net8.0\AI_Vraag_1.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.AssemblyInfoInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.AssemblyInfo.vb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.vbproj.CoreCompileInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.sourcelink.json
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.dll
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\refint\AI_Vraag_1.dll
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\AI_Vraag_1.genruntimeconfig.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\OOP\Voorbereiding Examen\AI_Vraag_1\AI_Vraag_1\obj\Debug\net8.0\ref\AI_Vraag_1.dll
