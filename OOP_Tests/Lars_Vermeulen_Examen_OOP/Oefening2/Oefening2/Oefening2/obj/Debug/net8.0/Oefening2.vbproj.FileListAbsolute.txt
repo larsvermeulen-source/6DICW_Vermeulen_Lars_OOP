@@ -1,0 +1,28 @@
+C:\Users\Lars\source\repos\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\source\repos\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.AssemblyInfoInputs.cache
+C:\Users\Lars\source\repos\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.AssemblyInfo.vb
+C:\Users\Lars\source\repos\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.vbproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\Oefening2\Oefening2\bin\Debug\net8.0\Oefening2.exe
+C:\Users\Lars\source\repos\Oefening2\Oefening2\bin\Debug\net8.0\Oefening2.deps.json
+C:\Users\Lars\source\repos\Oefening2\Oefening2\bin\Debug\net8.0\Oefening2.runtimeconfig.json
+C:\Users\Lars\source\repos\Oefening2\Oefening2\bin\Debug\net8.0\Oefening2.dll
+C:\Users\Lars\source\repos\Oefening2\Oefening2\bin\Debug\net8.0\Oefening2.pdb
+C:\Users\Lars\source\repos\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.dll
+C:\Users\Lars\source\repos\Oefening2\Oefening2\obj\Debug\net8.0\refint\Oefening2.dll
+C:\Users\Lars\source\repos\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.pdb
+C:\Users\Lars\source\repos\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.genruntimeconfig.cache
+C:\Users\Lars\source\repos\Oefening2\Oefening2\obj\Debug\net8.0\ref\Oefening2.dll
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\bin\Debug\net8.0\Oefening2.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\bin\Debug\net8.0\Oefening2.deps.json
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\bin\Debug\net8.0\Oefening2.runtimeconfig.json
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\bin\Debug\net8.0\Oefening2.dll
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\bin\Debug\net8.0\Oefening2.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.AssemblyInfoInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.AssemblyInfo.vb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.vbproj.CoreCompileInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.dll
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\obj\Debug\net8.0\refint\Oefening2.dll
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\obj\Debug\net8.0\Oefening2.genruntimeconfig.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\OOP_Tests\Lars_Vermeulen_Examen_OOP\Oefening2\Oefening2\Oefening2\obj\Debug\net8.0\ref\Oefening2.dll
