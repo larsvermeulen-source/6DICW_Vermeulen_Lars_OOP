@@ -1,0 +1,15 @@
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.AssemblyInfoInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.AssemblyInfo.cs
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.sourcelink.json
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.deps.json
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.runtimeconfig.json
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.dll
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.dll
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\obj\Debug\net8.0\refint\Smartphone.dll
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.genruntimeconfig.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#\H3\Smartphone\Smartphone\obj\Debug\net8.0\ref\Smartphone.dll
