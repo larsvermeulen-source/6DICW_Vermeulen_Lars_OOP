@@ -25,7 +25,7 @@ namespace OpDeWeegschaal
             label2.Text = weegschaal.gewicht + " kg";            // Massa
             label3.Text = weegschaal.GeefBMI().ToString("0.0");  // BMI
             label4.Text = weegschaal.GeeftStatus();              // Status
-        
+        }
         private void label1_Click(object sender, EventArgs e) // Lengte
         {
             // Gebeurt bij updatescherm

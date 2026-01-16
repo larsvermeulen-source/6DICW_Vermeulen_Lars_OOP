@@ -1,0 +1,7 @@
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#_Tests\Vermeulen_Lars_SB1\Vermeulen_Lars_SB1\obj\Debug\net8.0-windows\Vermeulen_Lars_SB1.Form1.resources
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#_Tests\Vermeulen_Lars_SB1\Vermeulen_Lars_SB1\obj\Debug\net8.0-windows\Vermeulen_Lars_SB1.csproj.GenerateResource.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#_Tests\Vermeulen_Lars_SB1\Vermeulen_Lars_SB1\obj\Debug\net8.0-windows\Vermeulen_Lars_SB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#_Tests\Vermeulen_Lars_SB1\Vermeulen_Lars_SB1\obj\Debug\net8.0-windows\Vermeulen_Lars_SB1.AssemblyInfoInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#_Tests\Vermeulen_Lars_SB1\Vermeulen_Lars_SB1\obj\Debug\net8.0-windows\Vermeulen_Lars_SB1.AssemblyInfo.cs
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#_Tests\Vermeulen_Lars_SB1\Vermeulen_Lars_SB1\obj\Debug\net8.0-windows\Vermeulen_Lars_SB1.csproj.CoreCompileInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\6DICW_Vermeulen_Lars_OOP\C#_Tests\Vermeulen_Lars_SB1\Vermeulen_Lars_SB1\obj\Debug\net8.0-windows\Vermeulen_Lars_SB1.sourcelink.json
