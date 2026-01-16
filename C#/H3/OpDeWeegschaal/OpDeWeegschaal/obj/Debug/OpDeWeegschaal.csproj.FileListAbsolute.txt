@@ -1,0 +1,30 @@
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_oefeningen\_beginsituatie\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.exe.config
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_oefeningen\_beginsituatie\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_oefeningen\_beginsituatie\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.pdb
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_oefeningen\_beginsituatie\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csprojResolveAssemblyReference.cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_oefeningen\_beginsituatie\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.BMIForm.resources
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_oefeningen\_beginsituatie\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.Properties.Resources.resources
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_oefeningen\_beginsituatie\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csproj.GenerateResource.Cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_oefeningen\_beginsituatie\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_oefeningen\_beginsituatie\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.exe.config
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.exe
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csprojAssemblyReference.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.BMIForm.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.Properties.Resources.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csproj.GenerateResource.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csproj.CoreCompileInputs.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.exe
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.exe.config
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csproj.AssemblyReference.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.exe.config
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.BMIForm.resources
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.Properties.Resources.resources
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csproj.GenerateResource.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csproj.CoreCompileInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.pdb
