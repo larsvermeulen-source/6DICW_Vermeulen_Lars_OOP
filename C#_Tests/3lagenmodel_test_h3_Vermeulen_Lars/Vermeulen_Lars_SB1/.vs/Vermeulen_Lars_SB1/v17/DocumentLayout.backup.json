@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\Vermeulen_Lars_SB1\\",
+  "WorkspaceRootPath": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\3lagenmodel_test_h3_Vermeulen_Lars\\Vermeulen_Lars_SB1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B13562A-71A6-4CAD-945E-A34BD5C6B6B4}|Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj|c:\\users\\lars\\documents\\school\\jaar 25-26\\gitreposharp\\6dicw_vermeulen_lars_oop\\c#_tests\\vermeulen_lars_sb1\\vermeulen_lars_sb1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9B13562A-71A6-4CAD-945E-A34BD5C6B6B4}|Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj|C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\3lagenmodel_test_h3_Vermeulen_Lars\\Vermeulen_Lars_SB1\\vermeulen_lars_sb1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9B13562A-71A6-4CAD-945E-A34BD5C6B6B4}|Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj|solutionrelative:vermeulen_lars_sb1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B13562A-71A6-4CAD-945E-A34BD5C6B6B4}|Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj|c:\\users\\lars\\documents\\school\\jaar 25-26\\gitreposharp\\6dicw_vermeulen_lars_oop\\c#_tests\\vermeulen_lars_sb1\\vermeulen_lars_sb1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B13562A-71A6-4CAD-945E-A34BD5C6B6B4}|Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj|c:\\users\\lars\\documents\\school\\jaar 25-26\\gitreposharp\\6dicw_vermeulen_lars_oop\\c#_tests\\3lagenmodel_test_h3_vermeulen_lars\\vermeulen_lars_sb1\\vermeulen_lars_sb1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B13562A-71A6-4CAD-945E-A34BD5C6B6B4}|Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj|solutionrelative:vermeulen_lars_sb1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B13562A-71A6-4CAD-945E-A34BD5C6B6B4}|Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj|c:\\users\\lars\\documents\\school\\jaar 25-26\\gitreposharp\\6dicw_vermeulen_lars_oop\\c#_tests\\vermeulen_lars_sb1\\vermeulen_lars_sb1\\comedyshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B13562A-71A6-4CAD-945E-A34BD5C6B6B4}|Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj|c:\\users\\lars\\documents\\school\\jaar 25-26\\gitreposharp\\6dicw_vermeulen_lars_oop\\c#_tests\\3lagenmodel_test_h3_vermeulen_lars\\vermeulen_lars_sb1\\vermeulen_lars_sb1\\comedyshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B13562A-71A6-4CAD-945E-A34BD5C6B6B4}|Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj|solutionrelative:vermeulen_lars_sb1\\comedyshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,10 +28,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\3lagenmodel_test_h3_Vermeulen_Lars\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Form1.cs",
               "RelativeDocumentMoniker": "Vermeulen_Lars_SB1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Form1.cs [Design]*",
-              "RelativeToolTip": "Vermeulen_Lars_SB1\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\3lagenmodel_test_h3_Vermeulen_Lars\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Form1.cs [Design]",
+              "RelativeToolTip": "Vermeulen_Lars_SB1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T10:16:35.377Z",
               "IsPinned": true,
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\3lagenmodel_test_h3_Vermeulen_Lars\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Form1.cs",
               "RelativeDocumentMoniker": "Vermeulen_Lars_SB1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Form1.cs*",
-              "RelativeToolTip": "Vermeulen_Lars_SB1\\Form1.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\3lagenmodel_test_h3_Vermeulen_Lars\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Form1.cs",
+              "RelativeToolTip": "Vermeulen_Lars_SB1\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T10:23:16.34Z",
               "EditorCaption": ""
@@ -54,14 +54,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ComedyShow.cs",
-              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\ComedyShow.cs",
+              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\3lagenmodel_test_h3_Vermeulen_Lars\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\ComedyShow.cs",
               "RelativeDocumentMoniker": "Vermeulen_Lars_SB1\\ComedyShow.cs",
-              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\ComedyShow.cs*",
-              "RelativeToolTip": "Vermeulen_Lars_SB1\\ComedyShow.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\3lagenmodel_test_h3_Vermeulen_Lars\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\ComedyShow.cs",
+              "RelativeToolTip": "Vermeulen_Lars_SB1\\ComedyShow.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T10:22:47.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T10:22:47.996Z"
             }
           ]
         }

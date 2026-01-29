@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj",
+      "projectUniqueName": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\3lagenmodel_test_h3_Vermeulen_Lars\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj",
       "projectName": "Vermeulen_Lars_SB1",
-      "projectPath": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj",
+      "projectPath": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\3lagenmodel_test_h3_Vermeulen_Lars\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1.csproj",
       "packagesPath": "C:\\Users\\Lars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\obj\\",
+      "outputPath": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\6DICW_Vermeulen_Lars_OOP\\C#_Tests\\3lagenmodel_test_h3_Vermeulen_Lars\\Vermeulen_Lars_SB1\\Vermeulen_Lars_SB1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

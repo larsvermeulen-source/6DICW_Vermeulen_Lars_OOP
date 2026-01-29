@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vermeulen_Lars_SB1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b49ae8f202be2f68f17440bb7ac935fef280fca7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38401b0877ca44096c0a022f074135919d2fc355")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vermeulen_Lars_SB1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vermeulen_Lars_SB1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
