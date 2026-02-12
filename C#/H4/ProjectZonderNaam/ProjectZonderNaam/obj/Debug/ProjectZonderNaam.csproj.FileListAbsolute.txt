@@ -1,0 +1,11 @@
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.csproj.AssemblyReference.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.Form1.resources
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.Properties.Resources.resources
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.csproj.GenerateResource.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.csproj.CoreCompileInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\ProjectZonderNaam.exe.config
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\ProjectZonderNaam.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\ProjectZonderNaam.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.exe.config

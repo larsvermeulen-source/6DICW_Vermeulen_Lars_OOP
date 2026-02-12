@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|c:\\users\\lars\\documents\\school\\jaar 25-26\\gitreposharp\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\projectzondernaam\\projectzondernaam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|solutionrelative:projectzondernaam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|c:\\users\\lars\\documents\\school\\jaar 25-26\\gitreposharp\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\projectzondernaam\\projectzondernaam\\naam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|solutionrelative:projectzondernaam\\naam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|c:\\users\\lars\\documents\\school\\jaar 25-26\\gitreposharp\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\projectzondernaam\\projectzondernaam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|solutionrelative:projectzondernaam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectZonderNaam\\Program.cs",
+              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Program.cs*",
+              "RelativeToolTip": "ProjectZonderNaam\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:35:21.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectZonderNaam\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjectZonderNaam\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:09:56.334Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Naam.cs",
+              "DocumentMoniker": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Naam.cs",
+              "RelativeDocumentMoniker": "ProjectZonderNaam\\Naam.cs",
+              "ToolTip": "C:\\Users\\Lars\\Documents\\School\\Jaar 25-26\\GitReposharp\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Naam.cs",
+              "RelativeToolTip": "ProjectZonderNaam\\Naam.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:12:28.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
