@@ -1,0 +1,21 @@
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\bin\Debug\Wielertenue.exe.config
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\bin\Debug\Wielertenue.exe
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\bin\Debug\Wielertenue.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.csprojAssemblyReference.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.BestellingForm.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.Properties.Resources.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.csproj.GenerateResource.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.csproj.CoreCompileInputs.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.exe
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.csproj.AssemblyReference.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.exe.config
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.BestellingForm.resources
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.Properties.Resources.resources
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.csproj.GenerateResource.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.csproj.CoreCompileInputs.cache
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.pdb
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\bin\Debug\Wielertenue.exe.config
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\bin\Debug\Wielertenue.exe
+C:\Users\Lars\Documents\School\Jaar 25-26\GitReposharp\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\bin\Debug\Wielertenue.pdb
