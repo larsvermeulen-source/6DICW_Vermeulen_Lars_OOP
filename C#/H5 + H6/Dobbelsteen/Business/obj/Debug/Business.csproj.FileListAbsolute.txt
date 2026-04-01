@@ -1,0 +1,12 @@
+C:\Users\larsv\source\repos\Dobbelsteen\Business\bin\Debug\Business.dll
+C:\Users\larsv\source\repos\Dobbelsteen\Business\bin\Debug\Business.pdb
+C:\Users\larsv\source\repos\Dobbelsteen\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\larsv\source\repos\Dobbelsteen\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\larsv\source\repos\Dobbelsteen\Business\obj\Debug\Business.dll
+C:\Users\larsv\source\repos\Dobbelsteen\Business\obj\Debug\Business.pdb
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Business\bin\Debug\Business.dll
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Business\bin\Debug\Business.pdb
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Business\obj\Debug\Business.dll
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Business\obj\Debug\Business.pdb

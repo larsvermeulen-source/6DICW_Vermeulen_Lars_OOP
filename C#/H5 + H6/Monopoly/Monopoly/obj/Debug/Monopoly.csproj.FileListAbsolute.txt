@@ -1,0 +1,60 @@
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.FormStraat.resources
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.StraatForm.resources
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.StraatForm.resources
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.BordForm.resources
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.BordForm.resources
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.StraatForm.resources
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+G:\2017_2018\Drielagenmodel\_hoofdstuk_5\_oefeningen\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.BordForm.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.StraatForm.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.AssemblyReference.cache
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.BordForm.resources
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.StraatForm.resources
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_5\_oefeningen\Monopoly\Monopoly\obj\Debug\Monopoly.pdb

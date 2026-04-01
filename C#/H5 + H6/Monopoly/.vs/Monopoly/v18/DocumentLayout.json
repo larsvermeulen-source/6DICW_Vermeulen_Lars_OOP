@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\monopoly\\monopolystraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\monopolystraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\monopoly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StraatForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\StraatForm.cs",
+              "RelativeDocumentMoniker": "Monopoly\\StraatForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\StraatForm.cs [Design]",
+              "RelativeToolTip": "Monopoly\\StraatForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:23:07.136Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StraatForm.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\StraatForm.cs",
+              "RelativeDocumentMoniker": "Monopoly\\StraatForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\StraatForm.cs",
+              "RelativeToolTip": "Monopoly\\StraatForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:24:29.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonopolyStraat.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\MonopolyStraat.cs",
+              "RelativeDocumentMoniker": "Monopoly\\MonopolyStraat.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\MonopolyStraat.cs",
+              "RelativeToolTip": "Monopoly\\MonopolyStraat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:18:08.31Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\BordForm.cs",
+              "RelativeDocumentMoniker": "Monopoly\\BordForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\BordForm.cs [Design]",
+              "RelativeToolTip": "Monopoly\\BordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:26:10.363Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BordForm.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\BordForm.cs",
+              "RelativeDocumentMoniker": "Monopoly\\BordForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\BordForm.cs",
+              "RelativeToolTip": "Monopoly\\BordForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:29:17.032Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\Program.cs",
+              "RelativeDocumentMoniker": "Monopoly\\Program.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\Program.cs",
+              "RelativeToolTip": "Monopoly\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:28:06.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

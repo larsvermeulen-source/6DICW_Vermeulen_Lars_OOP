@@ -1,0 +1,128 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CocktailBar
+{
+    internal class Cocktail
+    {
+        private String _naam;
+        private decimal _kostPrijs;
+        private List <Ingredient> _ingredienten;
+
+        public Cocktail(String naam, decimal kostPrijs)
+        {
+            _naam = naam;
+            _kostPrijs = kostPrijs;
+            _ingredienten = new List<Ingredient>();
+        }
+        public String Naam
+        {
+            get { return _naam; }
+            set { _naam = value; }
+        }
+        public decimal KostPrijs
+        {
+            get { return _kostPrijs; }
+            set { _kostPrijs = value; }
+        }
+        public List<Ingredient> Ingredienten
+        {
+            //get { return new List<Ingredient>(_ingredienten); }
+            get { return _ingredienten; }
+        }
+        public void VoegIngredientToe(Ingredient ingredient)
+        {
+            _ingredienten.Add(ingredient);
+        }
+        public int HoeveelIngredienten()
+        {
+            return _ingredienten.Count;
+        }
+        public int InhoudCocktail()
+        {
+            int totaal = 0;
+            foreach (var ing in _ingredienten)
+            {
+                totaal += ing.Hoeveelheid;
+            }
+            return totaal;
+        }
+        public int HoeveelAlcoholischeIngredienten() 
+        {
+            int count = 0;
+            foreach (var ing in _ingredienten)
+            {
+                if (ing.IsAlcoholisch()) count++;
+            }
+            return count;
+        }
+
+        public bool IsAlcoholisch()
+        {
+            return HoeveelAlcoholischeIngredienten() > 0;
+        }
+
+        public string AlleIngredienten()
+        {
+            if (_ingredienten.Count == 0) return string.Empty;
+            var parts = new List<string>();
+            foreach (var ing in _ingredienten)
+            {
+                parts.Add($"{ing.Hoeveelheid} ml {ing.Naam}");
+            }
+            return string.Join("; ", parts);
+        }
+
+        public Ingredient GeefIngredient(int index)
+        {
+            if (index < 0 || index >= _ingredienten.Count) return null;
+            return _ingredienten[index];
+        }
+
+        public string GeefNaamIngredient(int index)
+        {
+            var ing = GeefIngredient(index);
+            if (ing == null) return "#Fout";
+            return ing.Naam;
+        }
+
+        public void VerwijderIngredient(int index)
+        {
+            if (index < 0 || index >= _ingredienten.Count) return;
+            _ingredienten.RemoveAt(index);
+        }
+
+        public void MaakAlcoholvrij(decimal nieuwePrijs)
+        {
+            // Verwijder alle alcoholische ingrediënten met een for-lus (achteruit itereren)
+            for (int i = _ingredienten.Count - 1; i >= 0; i--)
+            {
+                if (_ingredienten[i].IsAlcoholisch())
+                {
+                    _ingredienten.RemoveAt(i);
+                }
+            }
+            _naam += " - alcoholvrij";
+            _kostPrijs = nieuwePrijs;
+        }
+
+        public double Alcoholpercentage()
+        {
+            int totaalInhoud = InhoudCocktail();
+            if (totaalInhoud == 0) return 0.0;
+
+            double totaalAlcohol = 0.0; // in ml pure alcohol
+            foreach (var ing in _ingredienten)
+            {
+                totaalAlcohol += ing.Hoeveelheid * (ing.Alcoholpercentage / 100.0);
+            }
+
+            // teruggeven als percentage (0..100)
+            return (totaalAlcohol / totaalInhoud) * 100.0;
+        }
+
+    }
+}

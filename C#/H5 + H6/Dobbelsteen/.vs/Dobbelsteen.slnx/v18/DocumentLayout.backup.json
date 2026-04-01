@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\csharp\\mijn oefeningen\\dobbelsteen\\dobbelsteen\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|solutionrelative:dobbelsteen\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\dobbelsteen\\dobbelsteenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|solutionrelative:dobbelsteen\\dobbelsteenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA24517-B022-441B-B0DF-3997C77E6E80}|Business\\Business.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\business\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA24517-B022-441B-B0DF-3997C77E6E80}|Business\\Business.csproj|solutionrelative:business\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\dobbelsteen\\startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|solutionrelative:dobbelsteen\\startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\dobbelsteen\\dobbelsteenform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|solutionrelative:dobbelsteen\\dobbelsteenform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\dobbelsteen\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|solutionrelative:dobbelsteen\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\dobbelsteen\\dobbelsteenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9F96A9B-1F41-4A54-901C-25966C879198}|Dobbelsteen\\Presentation.csproj|solutionrelative:dobbelsteen\\dobbelsteenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Dobbelsteen\\StartForm.cs",
+              "RelativeDocumentMoniker": "Dobbelsteen\\StartForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Dobbelsteen\\StartForm.cs [Design]",
+              "RelativeToolTip": "Dobbelsteen\\StartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:24:36.457Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Dobbelsteen\\StartForm.cs",
+              "RelativeDocumentMoniker": "Dobbelsteen\\StartForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Dobbelsteen\\StartForm.cs",
+              "RelativeToolTip": "Dobbelsteen\\StartForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:31:39.352Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DobbelsteenForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Dobbelsteen\\DobbelsteenForm.cs",
+              "RelativeDocumentMoniker": "Dobbelsteen\\DobbelsteenForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\source\\repos\\Dobbelsteen\\Dobbelsteen\\DobbelsteenForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\Dobbelsteen\\Dobbelsteen\\DobbelsteenForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:48:42.774Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DobbelsteenForm.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Dobbelsteen\\DobbelsteenForm.cs",
+              "RelativeDocumentMoniker": "Dobbelsteen\\DobbelsteenForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Dobbelsteen\\DobbelsteenForm.cs",
+              "RelativeToolTip": "Dobbelsteen\\DobbelsteenForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:14:37.089Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dobbelsteen.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Business\\Dobbelsteen.cs",
+              "RelativeDocumentMoniker": "Business\\Dobbelsteen.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Business\\Dobbelsteen.cs",
+              "RelativeToolTip": "Business\\Dobbelsteen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:41:20.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DobbelsteenForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Dobbelsteen\\DobbelsteenForm.Designer.cs",
+              "RelativeDocumentMoniker": "Dobbelsteen\\DobbelsteenForm.Designer.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Dobbelsteen\\DobbelsteenForm.Designer.cs",
+              "RelativeToolTip": "Dobbelsteen\\DobbelsteenForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:43:41.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Dobbelsteen\\StartForm.Designer.cs",
+              "RelativeDocumentMoniker": "Dobbelsteen\\StartForm.Designer.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\Mijn Oefeningen\\Dobbelsteen\\Dobbelsteen\\StartForm.Designer.cs",
+              "RelativeToolTip": "Dobbelsteen\\StartForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:38:44.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

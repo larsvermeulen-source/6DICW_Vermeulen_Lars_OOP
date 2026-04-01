@@ -1,0 +1,9 @@
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_6\_voorbeelden\Reizen\Reizen\bin\Debug\Reizen.exe.config
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_6\_voorbeelden\Reizen\Reizen\bin\Debug\Reizen.exe
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_6\_voorbeelden\Reizen\Reizen\bin\Debug\Reizen.pdb
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_6\_voorbeelden\Reizen\Reizen\obj\Debug\Reizen.csproj.AssemblyReference.cache
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_6\_voorbeelden\Reizen\Reizen\obj\Debug\Reizen.Properties.Resources.resources
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_6\_voorbeelden\Reizen\Reizen\obj\Debug\Reizen.csproj.GenerateResource.cache
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_6\_voorbeelden\Reizen\Reizen\obj\Debug\Reizen.csproj.CoreCompileInputs.cache
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_6\_voorbeelden\Reizen\Reizen\obj\Debug\Reizen.exe
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\_hoofdstuk_6\_voorbeelden\Reizen\Reizen\obj\Debug\Reizen.pdb

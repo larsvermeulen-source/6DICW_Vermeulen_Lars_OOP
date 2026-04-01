@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CocktailBar
+{
+    internal class Cocktail
+    {
+        private String _naam;
+        private decimal _kostPrijs;
+        private List <Ingredient> _ingredienten;
+
+        public Cocktail(String naam, decimal kostPrijs)
+        {
+            _naam = naam;
+            _kostPrijs = kostPrijs;
+            _ingredienten = new List<Ingredient>();
+        }
+        public String Naam
+        {
+            get { return _naam; }
+            set { _naam = value; }
+        }
+        public decimal KostPrijs
+        {
+            get { return _kostPrijs; }
+            set { _kostPrijs = value; }
+        }
+        public List<Ingredient> Ingredienten
+        {
+            //get { return new List<Ingredient>(_ingredienten); }
+            get { return _ingredienten; }
+        }
+        public void VoegIngredientToe(Ingredient ingredient)
+        {
+            _ingredienten.Add(ingredient);
+        }
+        public int HoeveelIngredienten()
+        {
+            return _ingredienten.Count;
+        }
+        public int InhoudCocktail()
+        {
+            // som van alle hoeveelheden van de ingrediënten
+        }
+        public int HoeveelAlcoholischeIngredienten() 
+        {
+            // som van alle ingrediënten waarbij IsAlcoholisch() true is
+        }
+
+    }
+}

@@ -1,0 +1,28 @@
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\bin\Debug\Dobbelsteen.exe.config
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\bin\Debug\Dobbelsteen.exe
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\bin\Debug\Dobbelsteen.pdb
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.Properties.Resources.resources
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.exe
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.pdb
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\bin\Debug\Business.dll
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\bin\Debug\Business.pdb
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.DobbelsteenForm.resources
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.StartForm.resources
+C:\Users\larsv\source\repos\Dobbelsteen\Dobbelsteen\obj\Debug\Presenta.BC777DBE.Up2Date
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\bin\Debug\Dobbelsteen.exe.config
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\bin\Debug\Dobbelsteen.exe
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\bin\Debug\Dobbelsteen.pdb
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\bin\Debug\Business.dll
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\bin\Debug\Business.pdb
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.DobbelsteenForm.resources
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.Properties.Resources.resources
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.StartForm.resources
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\obj\Debug\Presenta.BC777DBE.Up2Date
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.exe
+C:\Users\larsv\Documents\Schooljaar 25-26\csharp\Mijn Oefeningen\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.pdb
