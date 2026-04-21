@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Business/Business.csproj" />
+  <Project Path="testDND_Vermeulen_Lars/Presentatie.csproj" />
+</Solution>

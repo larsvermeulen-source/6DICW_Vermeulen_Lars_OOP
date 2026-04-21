@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\larsv\\source\\repos\\testDND_Vermeulen_Lars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB4D748-6193-488E-BF76-B2EA08E7FBB1}|testDND_Vermeulen_Lars\\Presentatie.csproj|c:\\users\\larsv\\source\\repos\\testdnd_vermeulen_lars\\testdnd_vermeulen_lars\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CB4D748-6193-488E-BF76-B2EA08E7FBB1}|testDND_Vermeulen_Lars\\Presentatie.csproj|solutionrelative:testdnd_vermeulen_lars\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7DAB23-5F6D-497D-8A39-9B9A58BC3A84}|Business\\Business.csproj|c:\\users\\larsv\\source\\repos\\testdnd_vermeulen_lars\\business\\dnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7DAB23-5F6D-497D-8A39-9B9A58BC3A84}|Business\\Business.csproj|solutionrelative:business\\dnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7DAB23-5F6D-497D-8A39-9B9A58BC3A84}|Business\\Business.csproj|c:\\users\\larsv\\source\\repos\\testdnd_vermeulen_lars\\business\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7DAB23-5F6D-497D-8A39-9B9A58BC3A84}|Business\\Business.csproj|solutionrelative:business\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB4D748-6193-488E-BF76-B2EA08E7FBB1}|testDND_Vermeulen_Lars\\Presentatie.csproj|c:\\users\\larsv\\source\\repos\\testdnd_vermeulen_lars\\testdnd_vermeulen_lars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB4D748-6193-488E-BF76-B2EA08E7FBB1}|testDND_Vermeulen_Lars\\Presentatie.csproj|solutionrelative:testdnd_vermeulen_lars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB4D748-6193-488E-BF76-B2EA08E7FBB1}|testDND_Vermeulen_Lars\\testDND_Vermeulen_Lars.csproj|c:\\users\\larsv\\source\\repos\\testdnd_vermeulen_lars\\testdnd_vermeulen_lars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CB4D748-6193-488E-BF76-B2EA08E7FBB1}|testDND_Vermeulen_Lars\\testDND_Vermeulen_Lars.csproj|solutionrelative:testdnd_vermeulen_lars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\larsv\\source\\repos\\testDND_Vermeulen_Lars\\testDND_Vermeulen_Lars\\Form1.cs",
+              "RelativeDocumentMoniker": "testDND_Vermeulen_Lars\\Form1.cs",
+              "ToolTip": "C:\\Users\\larsv\\source\\repos\\testDND_Vermeulen_Lars\\testDND_Vermeulen_Lars\\Form1.cs [Design]*",
+              "RelativeToolTip": "testDND_Vermeulen_Lars\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:28:23.829Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\source\\repos\\testDND_Vermeulen_Lars\\testDND_Vermeulen_Lars\\Form1.cs",
+              "RelativeDocumentMoniker": "testDND_Vermeulen_Lars\\Form1.cs",
+              "ToolTip": "C:\\Users\\larsv\\source\\repos\\testDND_Vermeulen_Lars\\testDND_Vermeulen_Lars\\Form1.cs*",
+              "RelativeToolTip": "testDND_Vermeulen_Lars\\Form1.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:04:05.399Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Karakter.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\source\\repos\\testDND_Vermeulen_Lars\\Business\\Karakter.cs",
+              "RelativeDocumentMoniker": "Business\\Karakter.cs",
+              "ToolTip": "C:\\Users\\larsv\\source\\repos\\testDND_Vermeulen_Lars\\Business\\Karakter.cs",
+              "RelativeToolTip": "Business\\Karakter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:48:22.748Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DnD.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\source\\repos\\testDND_Vermeulen_Lars\\Business\\DnD.cs",
+              "RelativeDocumentMoniker": "Business\\DnD.cs",
+              "ToolTip": "C:\\Users\\larsv\\source\\repos\\testDND_Vermeulen_Lars\\Business\\DnD.cs*",
+              "RelativeToolTip": "Business\\DnD.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:53:24.814Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Karakter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\larsv\\source\\repos\\testDND_Vermeulen_Lars\\testDND_Vermeulen_Lars\\Karakter.cs",
+              "RelativeDocumentMoniker": "testDND_Vermeulen_Lars\\Karakter.cs",
+              "ToolTip": "C:\\Users\\larsv\\source\\repos\\testDND_Vermeulen_Lars\\testDND_Vermeulen_Lars\\Karakter.cs [Design]*",
+              "RelativeToolTip": "testDND_Vermeulen_Lars\\Karakter.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:14:10.277Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

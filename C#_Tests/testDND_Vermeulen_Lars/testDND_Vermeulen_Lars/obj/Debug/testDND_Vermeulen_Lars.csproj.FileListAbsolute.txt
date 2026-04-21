@@ -1,0 +1,10 @@
+C:\Users\larsv\source\repos\testDND_Vermeulen_Lars\testDND_Vermeulen_Lars\bin\Debug\testDND_Vermeulen_Lars.exe.config
+C:\Users\larsv\source\repos\testDND_Vermeulen_Lars\testDND_Vermeulen_Lars\bin\Debug\testDND_Vermeulen_Lars.exe
+C:\Users\larsv\source\repos\testDND_Vermeulen_Lars\testDND_Vermeulen_Lars\bin\Debug\testDND_Vermeulen_Lars.pdb
+C:\Users\larsv\source\repos\testDND_Vermeulen_Lars\testDND_Vermeulen_Lars\obj\Debug\testDND_Vermeulen_Lars.csproj.AssemblyReference.cache
+C:\Users\larsv\source\repos\testDND_Vermeulen_Lars\testDND_Vermeulen_Lars\obj\Debug\testDND_Vermeulen_Lars.CharacterTextBox.resources
+C:\Users\larsv\source\repos\testDND_Vermeulen_Lars\testDND_Vermeulen_Lars\obj\Debug\testDND_Vermeulen_Lars.Properties.Resources.resources
+C:\Users\larsv\source\repos\testDND_Vermeulen_Lars\testDND_Vermeulen_Lars\obj\Debug\testDND_Vermeulen_Lars.csproj.GenerateResource.cache
+C:\Users\larsv\source\repos\testDND_Vermeulen_Lars\testDND_Vermeulen_Lars\obj\Debug\testDND_Vermeulen_Lars.csproj.CoreCompileInputs.cache
+C:\Users\larsv\source\repos\testDND_Vermeulen_Lars\testDND_Vermeulen_Lars\obj\Debug\testDND_Vermeulen_Lars.exe
+C:\Users\larsv\source\repos\testDND_Vermeulen_Lars\testDND_Vermeulen_Lars\obj\Debug\testDND_Vermeulen_Lars.pdb

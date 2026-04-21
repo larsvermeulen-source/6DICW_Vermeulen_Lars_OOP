@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\monopoly\\monopolystraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\monopolystraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StraatForm.cs",
               "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\StraatForm.cs",
               "RelativeDocumentMoniker": "Monopoly\\StraatForm.cs",
@@ -65,7 +65,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MonopolyStraat.cs",
               "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\csharp\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\MonopolyStraat.cs",
               "RelativeDocumentMoniker": "Monopoly\\MonopolyStraat.cs",
@@ -74,7 +74,8 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T10:18:08.31Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
