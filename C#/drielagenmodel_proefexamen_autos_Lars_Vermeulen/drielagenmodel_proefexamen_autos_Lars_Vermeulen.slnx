@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="proefexamenBL/proefexamenBL.csproj" />
-  <Project Path="proefexamenDA/proefexamenDA.csproj" />
-  <Project Path="proefexamenPL/proefexamenPL.csproj" />
+  <Project Path="proefexamenBL/proefexamenBL.csproj" Id="910391b5-1397-4f6a-832a-5957c575ab0b" />
+  <Project Path="proefexamenDA/proefexamenDA.csproj" Id="4393d78e-547d-43b0-adc3-d1de9fa3c097" />
+  <Project Path="proefexamenPL/proefexamenPL.csproj" Id="c53e531b-21cd-43a3-b17c-f7606a478c7d" />
 </Solution>

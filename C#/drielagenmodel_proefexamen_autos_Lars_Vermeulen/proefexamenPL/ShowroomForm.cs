@@ -28,11 +28,14 @@ namespace proefexamenPL
         }
         public void BouwGridKolommen() //Nodig omdat DGR meerdere kolommen heeft.
         {
-            dgvAutos.Columns.Add("Id", "Id");
-            dgvAutos.Columns.Add("Merk", "Merk");
-            dgvAutos.Columns.Add("Model", "Model");
-            dgvAutos.Columns.Add("Prijs", "Prijs");
-            dgvAutos.Columns.Add("LandVanHerkomst", "Land van herkomst");
+            if (!dgvAutos.Columns.Contains("Id"))
+            {
+                dgvAutos.Columns.Add("Id", "Id");
+                dgvAutos.Columns.Add("Merk", "Merk");
+                dgvAutos.Columns.Add("Model", "Model");
+                dgvAutos.Columns.Add("Prijs", "Prijs");
+                dgvAutos.Columns.Add("LandVanHerkomst", "Land van herkomst");
+            }
         }
 
         private void ToonLijstInGrid() //functie voor bij de buttons
