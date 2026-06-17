@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="proefexamenBL/proefexamenBL.csproj" />
+  <Project Path="proefexamenDA/proefexamenDA.csproj" />
+  <Project Path="proefexamenPL/proefexamenPL.csproj" />
+</Solution>

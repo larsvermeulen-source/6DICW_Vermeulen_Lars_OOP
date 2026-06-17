@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\c#\\drielagenmodel_proefexamen_autos_lars_vermeulen\\proefexamenpl\\detailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|solutionrelative:proefexamenpl\\detailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\c#\\drielagenmodel_proefexamen_autos_lars_vermeulen\\proefexamenpl\\showroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|solutionrelative:proefexamenpl\\showroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\c#\\drielagenmodel_proefexamen_autos_lars_vermeulen\\proefexamenpl\\showroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|solutionrelative:proefexamenpl\\showroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\c#\\drielagenmodel_proefexamen_autos_lars_vermeulen\\proefexamenpl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|solutionrelative:proefexamenpl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\c#\\drielagenmodel_proefexamen_autos_lars_vermeulen\\proefexamenpl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|solutionrelative:proefexamenpl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\c#\\drielagenmodel_proefexamen_autos_lars_vermeulen\\proefexamenpl\\detailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53E531B-21CD-43A3-B17C-F7606A478C7D}|proefexamenPL\\proefexamenPL.csproj|solutionrelative:proefexamenpl\\detailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393D78E-547D-43B0-ADC3-D1DE9FA3C097}|proefexamenDA\\proefexamenDA.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\c#\\drielagenmodel_proefexamen_autos_lars_vermeulen\\proefexamenda\\autodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393D78E-547D-43B0-ADC3-D1DE9FA3C097}|proefexamenDA\\proefexamenDA.csproj|solutionrelative:proefexamenda\\autodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910391B5-1397-4F6A-832A-5957C575AB0B}|proefexamenBL\\proefexamenBL.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\c#\\drielagenmodel_proefexamen_autos_lars_vermeulen\\proefexamenbl\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910391B5-1397-4F6A-832A-5957C575AB0B}|proefexamenBL\\proefexamenBL.csproj|solutionrelative:proefexamenbl\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowroomForm.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\ShowroomForm.cs",
+              "RelativeDocumentMoniker": "proefexamenPL\\ShowroomForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\ShowroomForm.cs",
+              "RelativeToolTip": "proefexamenPL\\ShowroomForm.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAQwGsAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:18:28.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowroomForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\ShowroomForm.cs",
+              "RelativeDocumentMoniker": "proefexamenPL\\ShowroomForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\ShowroomForm.cs [Design]",
+              "RelativeToolTip": "proefexamenPL\\ShowroomForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:18:24.385Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\DetailsForm.cs",
+              "RelativeDocumentMoniker": "proefexamenPL\\DetailsForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\DetailsForm.cs",
+              "RelativeToolTip": "proefexamenPL\\DetailsForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:15:10.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\DetailsForm.cs",
+              "RelativeDocumentMoniker": "proefexamenPL\\DetailsForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\DetailsForm.cs [Design]",
+              "RelativeToolTip": "proefexamenPL\\DetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:15:09.043Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\MainForm.cs",
+              "RelativeDocumentMoniker": "proefexamenPL\\MainForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\MainForm.cs",
+              "RelativeToolTip": "proefexamenPL\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:13:10.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\MainForm.cs",
+              "RelativeDocumentMoniker": "proefexamenPL\\MainForm.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenPL\\MainForm.cs [Design]",
+              "RelativeToolTip": "proefexamenPL\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:12:45.764Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoData.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenDA\\AutoData.cs",
+              "RelativeDocumentMoniker": "proefexamenDA\\AutoData.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenDA\\AutoData.cs",
+              "RelativeToolTip": "proefexamenDA\\AutoData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T21:34:06.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenBL\\Auto.cs",
+              "RelativeDocumentMoniker": "proefexamenBL\\Auto.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\C#\\drielagenmodel_proefexamen_autos_Lars_Vermeulen\\proefexamenBL\\Auto.cs",
+              "RelativeToolTip": "proefexamenBL\\Auto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:07:29.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

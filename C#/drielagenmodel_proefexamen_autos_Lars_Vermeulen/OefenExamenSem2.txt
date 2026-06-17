@@ -1,0 +1,94 @@
+Hier is je definitieve, volledige examenopdracht, perfect afgestemd op alle eisen van je cursus (Hoofdstuk 1 t/m 8).
+------------------------------
+## 1. MySQL Database Script (De Query)
+Open MySQL Workbench, plak de onderstaande code en voer deze volledig uit. Dit maakt de database showroomdb aan met een tabel autos en vult deze met testdata.
+
+CREATE DATABASE IF NOT EXISTS showroomdb;
+USE showroomdb;
+DROP TABLE IF EXISTS autos;
+CREATE TABLE autos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    merk VARCHAR(50) NOT NULL,
+    model VARCHAR(50) NOT NULL,
+    prijs DECIMAL(10,2) NOT NULL,
+    land_van_herkomst VARCHAR(3) NOT NULL -- Bijv. 'DEU', 'FRA', 'JPN', 'BEL'
+);
+INSERT INTO autos (merk, model, prijs, land_van_herkomst) VALUES
+('BMW', 'Reeks 3', 45000.00, 'DEU'),
+('Audi', 'A4', 42000.00, 'DEU'),
+('Volkswagen', 'Golf', 28000.00, 'DEU'),
+('Peugeot', '208', 21000.00, 'FRA'),
+('Renault', 'Clio', 19500.00, 'FRA'),
+('Toyota', 'Yaris', 22000.00, 'JPN'),
+('Honda', 'Civic', 29000.00, 'JPN'),
+('Imperia', 'GP', 120000.00, 'BEL');
+
+------------------------------
+## 2. Algemene Richtlijnen & Structuur
+
+* Solution naam: drielagenmodel_proefexamen_autos_voornaam_naam
+* Project 1 (BL): proefexamenBL (Class Library) -> Bevat de klasse Auto met de automatische properties: Id, Merk, Model, Prijs, LandVanHerkomst.
+* Project 2 (DA): proefexamenDA (Class Library) -> Bevat de klasse AutoData.
+* Connectiestring: "server=localhost; user id=root; password=root; database=showroomdb";
+   * CRUD-Methoden: GeefAutosLijst(), VoegAutoToe(Auto a), WijzigAuto(Auto a), en VerwijderAuto(int id).
+   * Gebruik MySqlDataReader voor het lezen en ExecuteNonQuery() voor schrijven/wijzigen/wissen.
+* Project 3 (PL): proefexamenPL (Windows Forms App) -> Bevat de 3 schermen. Vergeet de projectreferenties (References) niet te leggen!
+
+------------------------------
+## 3. Visuele Beschrijving van de Formulieren (UI)## Formulier 1: MainForm (Het Startscherm)
+Dit is het opstartscherm van je applicatie (Program.cs start dit formulier).
+
+* Visueel:
+* Een net, gecentreerd venster.
+   * Bovenaan een groot tekstlabel (Label): "Welkom bij Showroom Beheer v1.0".
+   * In het midden één grote, duidelijke knop (Button): btnOpenDatabase.
+* Werking: Als je op btnOpenDatabase klikt, opent het formulier ShowroomForm via de code ShowroomForm frm = new ShowroomForm(); frm.ShowDialog();.
+
+## Formulier 2: ShowroomForm (Het Databasescherm)
+Dit is het centrale dashboardscherm waar alle data en acties samenkomen.
+
+* Visueel:
+* Midden/Links: Een grote DataGridView (dgvAutos).
+   * Belangrijk: Voeg de kolommen handmatig via code toe (Columns.Add), en gebruik Columns.Contains om dubbele kolommen te voorkomen.
+   * Rechts (Knoppenbalk): Onder elkaar geplaatste knoppen:
+   * btnLaadAutos (Tekst: "Laad alle auto's")
+      * btnToonDuitse (Tekst: "Toon Duitse Auto's") -> Filtert de database/lijst op 'DEU'.
+      * btnOpenToevoegen (Tekst: "Nieuwe Auto Toevoegen")
+      * btnOpenWijzigen (Tekst: "Geselecteerde Auto Wijzigen")
+      * btnVerwijder (Tekst: "Geselecteerde Auto Wissen")
+   * Werking:
+* Bij het laden/filteren doorloop je de List<Auto> met een foreach-lus en voeg je rijen toe met Rows.Add().
+   * Bij "Wissen" haal je het Id op van de geselecteerde rij in de grid, stuur je dit naar de DA-laag, en ververs je daarna de grid.
+
+## Formulier 3: DetailsForm (Het Invoerscherm voor Toevoegen & Wijzigen)
+In plaats van 4 losse formulieren te maken, hergebruiken we één slim detailformulier voor zowel invoer als aanpassing (zoals in Hoofdstuk 7/8).
+
+* Visueel:
+* Vier nette labels met vier TextBoxen erachter:
+   * txtMerk
+      * txtModel
+      * txtPrijs
+      * txtLand
+   * Onderaan twee knoppen naast elkaar: btnOpslaan (Tekst: "Opslaan") en btnAnnuleren (Tekst: "Annuleren").
+* Werking:
+* Bij Toevoegen: Het formulier opent leeg. De gebruiker typt de gegevens. Bij "Opslaan" maak je een nieuw Auto-object, leest de TextBoxen uit, roept de DA-methode VoegAutoToe aan, en sluit het scherm (this.Close()).
+   * Bij Wijzigen: Het formulier opent, maar je vult via de code (bijvoorbeeld via een constructor of property) de TextBoxen al vooraf in met de gegevens van de geselecteerde auto uit de DataGridView. Bij "Opslaan" roep je WijzigAuto aan in de DA-laag (met behoud van het oorspronkelijke Id) en sluit je het scherm.
+
+------------------------------
+## Stappenplan om nu te starten:
+
+   1. Voer het SQL-script uit in Workbench.
+   2. Open Visual Studio en maak een nieuwe Windows Forms-solution.
+   3. Voeg direct de twee Class Libraries (proefexamenBL en proefexamenDA) toe.
+   4. Leg de referenties (PL -> BL & DA; DA -> BL).
+   5. Bouw eerst de SQL-connecties en CRUD-methoden in de DA-laag (de grote lijnen).
+   6. Ontwerp daarna de formulieren en verbind de knoppen.
+
+Ik wacht nu volledig tot je aan het programmeren bent en je weer meldt.
+Laat me direct weten als:
+
+* Je twijfelt over de ADO.NET-code (MySqlCommand, Parameters.AddWithValue) voor de Insert/Update/Delete query's.
+* Je een foutmelding krijgt bij het openen van de database of het overzetten van data tussen de Forms.
+* Je klaar bent en je code wilt laten reviewen alsof het je mondelinge examen is.
+
+
