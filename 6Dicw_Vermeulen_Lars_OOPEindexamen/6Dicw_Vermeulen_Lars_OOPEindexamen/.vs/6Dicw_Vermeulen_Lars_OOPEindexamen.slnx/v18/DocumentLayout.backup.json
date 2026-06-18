@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\6Dicw_Vermeulen_Lars_OOPEindexamen\\6Dicw_Vermeulen_Lars_OOPEindexamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6E1E7-9583-4247-B7D8-3B078CF666DB}|Business\\Business.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\6dicw_vermeulen_lars_oopeindexamen\\6dicw_vermeulen_lars_oopeindexamen\\business\\planeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6E1E7-9583-4247-B7D8-3B078CF666DB}|Business\\Business.csproj|solutionrelative:business\\planeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECD2B78-3B82-4F4E-B49D-E5C1E613CDC1}|DataAcess\\DataAcess.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\6dicw_vermeulen_lars_oopeindexamen\\6dicw_vermeulen_lars_oopeindexamen\\dataacess\\bsgdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECD2B78-3B82-4F4E-B49D-E5C1E613CDC1}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\bsgdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D281E5-DD12-41EF-8B14-455A02D332B3}|Presentation\\Presentation.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\6dicw_vermeulen_lars_oopeindexamen\\6dicw_vermeulen_lars_oopeindexamen\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D281E5-DD12-41EF-8B14-455A02D332B3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D281E5-DD12-41EF-8B14-455A02D332B3}|Presentation\\Presentation.csproj|c:\\users\\larsv\\documents\\schooljaar 25-26\\6dicw_vermeulen_lars_oop\\6dicw_vermeulen_lars_oopeindexamen\\6dicw_vermeulen_lars_oopeindexamen\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0D281E5-DD12-41EF-8B14-455A02D332B3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Planeet.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\6Dicw_Vermeulen_Lars_OOPEindexamen\\6Dicw_Vermeulen_Lars_OOPEindexamen\\Business\\Planeet.cs",
+              "RelativeDocumentMoniker": "Business\\Planeet.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\6Dicw_Vermeulen_Lars_OOPEindexamen\\6Dicw_Vermeulen_Lars_OOPEindexamen\\Business\\Planeet.cs",
+              "RelativeToolTip": "Business\\Planeet.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T09:24:24.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BSGData.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\6Dicw_Vermeulen_Lars_OOPEindexamen\\6Dicw_Vermeulen_Lars_OOPEindexamen\\DataAcess\\BSGData.cs",
+              "RelativeDocumentMoniker": "DataAcess\\BSGData.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\6Dicw_Vermeulen_Lars_OOPEindexamen\\6Dicw_Vermeulen_Lars_OOPEindexamen\\DataAcess\\BSGData.cs",
+              "RelativeToolTip": "DataAcess\\BSGData.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswGwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T09:18:06.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\6Dicw_Vermeulen_Lars_OOPEindexamen\\6Dicw_Vermeulen_Lars_OOPEindexamen\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\6Dicw_Vermeulen_Lars_OOPEindexamen\\6Dicw_Vermeulen_Lars_OOPEindexamen\\Presentation\\Form1.cs",
+              "RelativeToolTip": "Presentation\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAtwEoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T07:15:49.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\6Dicw_Vermeulen_Lars_OOPEindexamen\\6Dicw_Vermeulen_Lars_OOPEindexamen\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\larsv\\Documents\\Schooljaar 25-26\\6DICW_Vermeulen_Lars_OOP\\6Dicw_Vermeulen_Lars_OOPEindexamen\\6Dicw_Vermeulen_Lars_OOPEindexamen\\Presentation\\Form1.cs [Design]",
+              "RelativeToolTip": "Presentation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T07:05:24.395Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
